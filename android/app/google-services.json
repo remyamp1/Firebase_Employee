@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "887977789885",
+    "project_id": "empolyeefirebase-9f67f",
+    "storage_bucket": "empolyeefirebase-9f67f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887977789885:android:42c1b960de752edce1ead4",
+        "android_client_info": {
+          "package_name": "com.example.firebase_empolye"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiCSLwtFHG5txICCmkEzvAmlSdLT82toQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
